@@ -1,0 +1,10 @@
+INSTRUCTIONS.................Lemmings Game
+
+Move the cursor - Arrow keys
+Umbrella - W key
+Blocker - E key
+Left Ladder - A key
+Right Ladder - S key
+
+
+Thank you for playing!!
